@@ -1,2 +1,2 @@
 # jogo-da-velha-arpia
-//pedro
+Este projeto é um pseudo-código usando o Portugol para desenvolvimento de um jogo da velha.
